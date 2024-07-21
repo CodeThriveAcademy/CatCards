@@ -354,6 +354,10 @@ select {
   transform: rotateY(180deg) !important;
 }
 
+.is-flipped .title-banner {
+  display: none !important;
+}
+
 .modal {
   display: none;
   position: fixed;
