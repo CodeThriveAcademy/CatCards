@@ -2,7 +2,7 @@
 
 > Codivation Academy - Beginner [YouTube Videos](https://todo.com)
 
-More details can be found in the [product brief](https://github.com/Svjard/catcards/wiki/Product-Brief)
+More details can be found in the [product brief](https://github.com/CodeThriveAcademy/CatCards/wiki/Product-Brief)
 
 A coding pagoda project that lets you utilize your skills to build a real-world application. To get started,
 
@@ -12,13 +12,13 @@ A coding pagoda project that lets you utilize your skills to build a real-world 
 4. Run `git init` in the directory
 5. Add the new repository origin `git remote add origin https://github.com/{username}/catcards.git` replacing {username} with your own Github username
 
-You can work through the building out the application however you wish but a project template is provided for you to learn additional skills such as planning, estimating, breaking down tasks, and general agile development. To use the template, visit the [project board](https://github.com/users/Svjard/projects/4/views/2?groupedBy%5BcolumnId%5D=Milestone) to start and follow these steps.
+You can work through the building out the application however you wish but a project template is provided for you to learn additional skills such as planning, estimating, breaking down tasks, and general agile development. To use the template, visit the [project board](https://github.com/users/CodeThriveAcademy/projects/4/views/2?groupedBy%5BcolumnId%5D=Milestone) to start and follow these steps.
 
 1. Go to https://github.com/{username}/catcards/milestones replacing {username} with your own Github username
 2. Add the milestones, copying and pasting from the project board
 3. Go to https://github.com/{username}/catcards/projects replacing {username} with your own Github username
 4. Create a new project of type Kanban
-5. Go to the [backlog view](https://github.com/users/Svjard/projects/4/views/1) and copy issues over into your own repository. Yes this is tedious but Github doesn't provide a better way. Part of this exercise is to also absorb the project breakdown in having to copy over the content.
+5. Go to the [backlog view](https://github.com/users/CodeThriveAcademy/projects/4/views/1) and copy issues over into your own repository. Yes this is tedious but Github doesn't provide a better way. Part of this exercise is to also absorb the project breakdown in having to copy over the content.
 6. Be sure to attach each issue you create to the correct milestone and the project you have created for yourself.
 7. Start Coding!
 
